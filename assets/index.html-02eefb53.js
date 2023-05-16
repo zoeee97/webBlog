@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ace68e6","path":"/tag/%E6%9D%82%E9%A1%B9/","title":"杂项 标签","lang":"zh-CN","frontmatter":{"title":"杂项 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"杂项","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
