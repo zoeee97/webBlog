@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f54d5bbc","path":"/tag/sundry/","title":"sundry 标签","lang":"zh-CN","frontmatter":{"title":"sundry 标签","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"sundry","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
